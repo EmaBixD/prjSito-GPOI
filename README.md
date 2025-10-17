@@ -20,3 +20,4 @@ Questo sito web statico raccoglie i progetti realizzati dagli studenti della Cla
 4. Il team leader gestirà le richieste di **Pull Request** che arrivano dai suoi compagni
 
 
+
